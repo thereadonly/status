@@ -8,20 +8,30 @@ sites:
   - name: tRO
     url: https://thereadonly.com
 
+assignees:
+  - thereadonly
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: "data:,"
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Stats
-  introTitle: "Status page of sites/services that I own, powered entirely by GitHub Actions."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**SDK sites/services** - Status"
+  introMessage: We use and track **near-real-time** data of the sites below.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  theme: dark
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
+  i18n:
+    footer: This code for this site is [open source and MIT Licensed](https://raw.githubusercontent.com/thereadonly/status/refs/heads/master/LICENSE). The content of this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
