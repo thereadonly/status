@@ -4,19 +4,19 @@
     "url": "https://dineshkumar.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dineshkumar.xyz.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 480,
-    "timeDay": 480,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "91.44%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "91.44%",
+    "time": 528,
+    "timeDay": 528,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-11-02": 1
+      "2024-11-02": 74
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.com.ico",
     "slug": "t-ro",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 667,
-    "timeDay": 667,
-    "timeWeek": 667,
-    "timeMonth": 667,
-    "timeYear": 667,
+    "status": "up",
+    "uptime": "91.50%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "91.50%",
+    "uptimeYear": "91.50%",
+    "time": 688,
+    "timeDay": 688,
+    "timeWeek": 688,
+    "timeMonth": 688,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2024-11-02": 0
+      "2024-11-02": 73
     }
   }
 ]
