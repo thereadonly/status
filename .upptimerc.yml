@@ -7,6 +7,8 @@ sites:
     url: https://dineshkumar.xyz
   - name: tRO
     url: https://thereadonly.com
+  - name: uptime
+    url: https://status.thereadonly.com
 
 assignees:
   - thereadonly
@@ -14,8 +16,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.thereadonly.com
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Stats
   introTitle: "**SDK sites/services** - Status"
@@ -31,7 +33,8 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-  i18n:
-    footer: This code for this site is [open source and MIT Licensed](https://raw.githubusercontent.com/thereadonly/status/refs/heads/master/LICENSE). The content of this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
-# Upptime also supports notifications, assigning issues, and more
+i18n:
+  footer: This code for this site is [open source and MIT Licensed](https://raw.githubusercontent.com/thereadonly/status/refs/heads/master/LICENSE). The content of this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+
+# Check docs for notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
