@@ -25,8 +25,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#    - title: GitHub {:octocat:}
+#      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://thereadonly.com
   theme: dark
   metaTags:
     - name: "color-scheme"
