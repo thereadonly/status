@@ -9,6 +9,10 @@ sites:
     url: https://thereadonly.com
   - name: uptime
     url: https://status.thereadonly.com
+  - name: PyIFSC@CdBrg
+    url: https://sdk.codeberg.page/getBankDetailsFromIFSC
+  - name: PyIFSC4mGtHb {:octocat:}
+    url: https://thereadonly.github.io/getBankDetailsFromIFSC
 
 assignees:
   - thereadonly
@@ -23,7 +27,7 @@ status-website:
   introTitle: "**SDK sites/services** - Status"
   introMessage: We use and track **near-real-time** data of the sites below.
   navbar:
-    - title: Status
+    - title: Status 📊📈🔔📝
       href: /
 #    - title: GitHub {:octocat:}
 #      href: https://github.com/$OWNER/$REPO
