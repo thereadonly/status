@@ -9,10 +9,12 @@ sites:
     url: https://thereadonly.com
   - name: uptime
     url: https://status.thereadonly.com
-  - name: PyIFSC@CdBrg
+  - name: PyIFSC@CdBrg # Old Version from @pages
     url: https://sdk.codeberg.page/getBankDetailsFromIFSC
-  - name: PyIFSC4mGtHb {:octocat:}
+  - name: PyIFSC@GtHb
     url: https://thereadonly.github.io/getBankDetailsFromIFSC
+  - name: PyIFSC
+    url: https://ifsc.thereadonly.com
 
 assignees:
   - thereadonly
