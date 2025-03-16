@@ -145,19 +145,19 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 517,
-    "timeDay": 517,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "status": "up",
+    "uptime": "93.15%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "93.15%",
+    "uptimeMonth": "93.15%",
+    "uptimeYear": "93.15%",
+    "time": 699,
+    "timeDay": 699,
+    "timeWeek": 699,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2025-03-16": 0
+      "2025-03-16": 44
     }
   },
   {
