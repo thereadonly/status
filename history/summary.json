@@ -4,9 +4,9 @@
     "url": "https://dineshkumar.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dineshkumar.xyz.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "98.39%",
@@ -151,9 +151,9 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
@@ -163,6 +163,7 @@
     "timeMonth": 710,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2025-03-20": 0,
       "2025-03-16": 44
     }
   },
