@@ -16,7 +16,11 @@ sites:
   - name: PyIFSC
     url: https://ifsc.thereadonly.com
   - name: FOSS4Dev
-    url: https://thereadonly.github.io/FOSS4Dev/ 
+    url: https://thereadonly.github.io/FOSS4Dev/
+  - name: Foss4Dev
+    url: foss4dev.thereadonly.com
+  - name: www
+    url: www.thereadonly.com
 
 assignees:
   - thereadonly
