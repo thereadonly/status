@@ -208,7 +208,7 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -216,7 +216,7 @@
     "uptimeYear": "99.00%",
     "time": 1441,
     "timeDay": 2281,
-    "timeWeek": 2986,
+    "timeWeek": 2950,
     "timeMonth": 2560,
     "timeYear": 1441,
     "dailyMinutesDown": {
