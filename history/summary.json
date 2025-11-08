@@ -12,7 +12,7 @@
     "uptimeYear": "98.90%",
     "time": 1245,
     "timeDay": 998,
-    "timeWeek": 708,
+    "timeWeek": 727,
     "timeMonth": 1766,
     "timeYear": 1256,
     "dailyMinutesDown": {
@@ -103,7 +103,7 @@
     "uptimeYear": "98.88%",
     "time": 1202,
     "timeDay": 906,
-    "timeWeek": 822,
+    "timeWeek": 815,
     "timeMonth": 2017,
     "timeYear": 1211,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -216,7 +216,7 @@
     "uptimeYear": "99.08%",
     "time": 1513,
     "timeDay": 2937,
-    "timeWeek": 1966,
+    "timeWeek": 2070,
     "timeMonth": 2597,
     "timeYear": 1513,
     "dailyMinutesDown": {
@@ -349,7 +349,7 @@
     "uptimeYear": "99.34%",
     "time": 1532,
     "timeDay": 894,
-    "timeWeek": 892,
+    "timeWeek": 898,
     "timeMonth": 1834,
     "timeYear": 1532,
     "dailyMinutesDown": {
