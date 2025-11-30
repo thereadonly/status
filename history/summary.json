@@ -14,7 +14,7 @@
     "timeDay": 557,
     "timeWeek": 622,
     "timeMonth": 888,
-    "timeYear": 1278,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2025-08-19": 25,
       "2025-08-18": 70,
@@ -95,7 +95,7 @@
     "url": "https://thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.com.ico",
     "slug": "t-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -105,7 +105,7 @@
     "timeDay": 766,
     "timeWeek": 675,
     "timeMonth": 737,
-    "timeYear": 1213,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2025-08-19": 25,
       "2025-08-18": 70,
