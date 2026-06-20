@@ -33,6 +33,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Stats
   introTitle: "**SDK sites/services** - Status"
+  theme: night
   introMessage: We use and track **near-real-time** data of the sites below.
   navbar:
     - title: Status 📊📈🔔📝
@@ -48,7 +49,7 @@ status-website:
     - name: "robots"
       content: "noindex"
 i18n:
-  footer: This code for this site is [open source and MIT Licensed](https://raw.githubusercontent.com/thereadonly/status/refs/heads/master/LICENSE). The content of this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+  footer: This code for this site is open source and MIT Licensed. The content of this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 
 # Check docs for notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
