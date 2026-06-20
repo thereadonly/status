@@ -42,7 +42,7 @@ status-website:
 #      href: https://github.com/$OWNER/$REPO
     - title: Home
       href: https://thereadonly.com
-  theme: dark
+# theme: dark
   metaTags:
     - name: "color-scheme"
       content: "dark light"
