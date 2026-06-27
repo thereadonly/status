@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dineshkumar.xyz.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "97.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptime": "97.91%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.41%",
-    "time": 1110,
+    "time": 1111,
     "timeDay": 1543,
-    "timeWeek": 1346,
+    "timeWeek": 1406,
     "timeMonth": 1346,
-    "timeYear": 1076,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2025-07-03": 64,
       "2025-07-06": 16,
@@ -50,7 +50,8 @@
       "2026-04-17": 8,
       "2026-05-05": 58,
       "2026-05-19": 709,
-      "2026-05-18": 717
+      "2026-05-18": 717,
+      "2026-06-27": 1
     }
   },
   {
@@ -58,17 +59,17 @@
     "url": "https://thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.com.ico",
     "slug": "t-ro",
-    "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.07%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.67%",
-    "time": 1202,
+    "time": 1203,
     "timeDay": 860,
-    "timeWeek": 1145,
+    "timeWeek": 1168,
     "timeMonth": 1145,
-    "timeYear": 1218,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-07-03": 64,
       "2025-07-06": 16,
@@ -102,7 +103,8 @@
       "2026-03-10": 108,
       "2026-04-13": 132,
       "2026-05-05": 161,
-      "2026-05-18": 91
+      "2026-05-18": 91,
+      "2026-06-27": 1
     }
   },
   {
@@ -118,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 493,
-    "timeWeek": 377,
+    "timeWeek": 398,
     "timeMonth": 377,
     "timeYear": 331,
     "dailyMinutesDown": {}
@@ -128,17 +130,17 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
-    "time": 1456,
+    "time": 1458,
     "timeDay": 1522,
-    "timeWeek": 1435,
+    "timeWeek": 1468,
     "timeMonth": 1435,
-    "timeYear": 1561,
+    "timeYear": 1562,
     "dailyMinutesDown": {
       "2025-07-03": 64,
       "2025-07-06": 16,
@@ -170,7 +172,8 @@
       "2026-04-19": 44,
       "2026-04-20": 144,
       "2026-05-05": 58,
-      "2026-05-18": 91
+      "2026-05-18": 91,
+      "2026-06-27": 0
     }
   },
   {
@@ -186,7 +189,7 @@
     "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 366,
-    "timeWeek": 370,
+    "timeWeek": 381,
     "timeMonth": 370,
     "timeYear": 406,
     "dailyMinutesDown": {}
@@ -204,7 +207,7 @@
     "uptimeYear": "100.00%",
     "time": 11,
     "timeDay": 58,
-    "timeWeek": 48,
+    "timeWeek": 51,
     "timeMonth": 48,
     "timeYear": 12,
     "dailyMinutesDown": {}
@@ -222,7 +225,7 @@
     "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 528,
-    "timeWeek": 369,
+    "timeWeek": 374,
     "timeMonth": 369,
     "timeYear": 361,
     "dailyMinutesDown": {}
@@ -240,7 +243,7 @@
     "uptimeYear": "100.00%",
     "time": 55,
     "timeDay": 128,
-    "timeWeek": 119,
+    "timeWeek": 130,
     "timeMonth": 119,
     "timeYear": 56,
     "dailyMinutesDown": {}
@@ -250,15 +253,15 @@
     "url": "www.thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.43%",
     "time": 1285,
     "timeDay": 847,
-    "timeWeek": 923,
+    "timeWeek": 939,
     "timeMonth": 923,
     "timeYear": 1204,
     "dailyMinutesDown": {
@@ -293,7 +296,8 @@
       "2026-04-13": 132,
       "2026-05-05": 58,
       "2026-05-19": 709,
-      "2026-05-18": 715
+      "2026-05-18": 715,
+      "2026-06-27": 0
     }
   }
 ]
