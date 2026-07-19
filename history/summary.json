@@ -6,10 +6,10 @@
     "slug": "home",
     "status": "down",
     "uptime": "97.93%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "97.31%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "97.30%",
     "time": 1163,
     "timeDay": 5595,
     "timeWeek": 3083,
@@ -53,7 +53,7 @@
       "2026-06-27": 30,
       "2026-07-07": 147,
       "2026-07-18": 54,
-      "2026-07-19": 4
+      "2026-07-19": 57
     }
   },
   {
@@ -63,10 +63,10 @@
     "slug": "t-ro",
     "status": "down",
     "uptime": "98.08%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "97.58%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "97.57%",
     "time": 1252,
     "timeDay": 5669,
     "timeWeek": 3162,
@@ -108,7 +108,7 @@
       "2026-06-27": 30,
       "2026-07-07": 86,
       "2026-07-18": 54,
-      "2026-07-19": 3
+      "2026-07-19": 57
     }
   },
   {
@@ -135,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.04%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.24%",
     "time": 1497,
     "timeDay": 11298,
     "timeWeek": 4178,
@@ -178,7 +178,7 @@
       "2026-06-28": 358,
       "2026-06-27": 30,
       "2026-07-07": 86,
-      "2026-07-19": 1
+      "2026-07-19": 55
     }
   },
   {
@@ -258,17 +258,17 @@
     "url": "www.thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "97.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "97.34%",
-    "time": 1287,
-    "timeDay": 947,
-    "timeWeek": 814,
-    "timeMonth": 1234,
-    "timeYear": 1233,
+    "time": 1306,
+    "timeDay": 5946,
+    "timeWeek": 2080,
+    "timeMonth": 1529,
+    "timeYear": 1258,
     "dailyMinutesDown": {
       "2025-07-20": 28,
       "2025-08-15": 143,
@@ -302,7 +302,8 @@
       "2026-05-18": 715,
       "2026-06-28": 358,
       "2026-06-27": 29,
-      "2026-07-07": 146
+      "2026-07-07": 146,
+      "2026-07-19": 0
     }
   }
 ]
