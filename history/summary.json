@@ -4,13 +4,13 @@
     "url": "https://dineshkumar.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dineshkumar.xyz.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "97.95%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "95.74%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "95.71%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "97.11%",
-    "time": 1153,
+    "time": 1154,
     "timeDay": 1198,
     "timeWeek": 931,
     "timeMonth": 1858,
@@ -57,7 +57,7 @@
       "2026-07-31": 468,
       "2026-08-05": 332,
       "2026-08-08": 34,
-      "2026-08-12": 63
+      "2026-08-12": 66
     }
   },
   {
@@ -141,13 +141,13 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "95.76%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "95.75%",
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.05%",
-    "time": 1504,
+    "time": 1505,
     "timeDay": 1294,
     "timeWeek": 1027,
     "timeMonth": 1762,
@@ -189,7 +189,7 @@
       "2026-07-31": 467,
       "2026-08-05": 332,
       "2026-08-08": 34,
-      "2026-08-12": 62
+      "2026-08-12": 63
     }
   },
   {
@@ -269,9 +269,9 @@
     "url": "www.thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "97.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.37%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "97.16%",
@@ -317,7 +317,8 @@
       "2026-07-21": 72,
       "2026-07-31": 466,
       "2026-08-05": 332,
-      "2026-08-08": 34
+      "2026-08-08": 34,
+      "2026-08-12": 0
     }
   }
 ]
