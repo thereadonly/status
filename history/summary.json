@@ -118,19 +118,19 @@
     "url": "https://status.thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.thereadonly.com.ico",
     "slug": "uptime",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 116,
-    "timeWeek": 291,
-    "timeMonth": 314,
-    "timeYear": 332,
+    "time": 324,
+    "timeDay": 218,
+    "timeWeek": 305,
+    "timeMonth": 317,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-08-19": 1
+      "2026-08-19": 25
     }
   },
   {
@@ -191,19 +191,19 @@
     "url": "https://thereadonly.github.io/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.github.io.ico",
     "slug": "py-ifsc-gt-hb",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 123,
-    "timeWeek": 383,
-    "timeMonth": 374,
-    "timeYear": 402,
+    "time": 399,
+    "timeDay": 312,
+    "timeWeek": 417,
+    "timeMonth": 384,
+    "timeYear": 403,
     "dailyMinutesDown": {
-      "2026-08-19": 1
+      "2026-08-19": 25
     }
   },
   {
@@ -211,19 +211,19 @@
     "url": "https://ifsc.thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/ifsc.thereadonly.com.ico",
     "slug": "py-ifsc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 14,
-    "timeDay": 19,
-    "timeWeek": 50,
-    "timeMonth": 37,
+    "time": 15,
+    "timeDay": 64,
+    "timeWeek": 62,
+    "timeMonth": 41,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2026-08-19": 1
+      "2026-08-19": 24
     }
   },
   {
@@ -231,19 +231,19 @@
     "url": "https://thereadonly.github.io/FOSS4Dev/",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.github.io.ico",
     "slug": "foss-4-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 359,
-    "timeDay": 89,
-    "timeWeek": 352,
-    "timeMonth": 365,
-    "timeYear": 369,
+    "timeDay": 282,
+    "timeWeek": 387,
+    "timeMonth": 374,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2026-08-19": 0
+      "2026-08-19": 24
     }
   },
   {
