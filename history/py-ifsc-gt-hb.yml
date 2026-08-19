@@ -1,7 +1,7 @@
 url: https://thereadonly.github.io/getBankDetailsFromIFSC
-status: down
-code: 503
-responseTime: 11
-lastUpdated: 2026-08-19T22:20:47.881Z
+status: up
+code: 200
+responseTime: 692
+lastUpdated: 2026-08-19T22:45:18.798Z
 startTime: 2025-03-16T07:31:58.793Z
 generator: Upptime <https://github.com/upptime/upptime>
