@@ -64,17 +64,17 @@
     "url": "https://thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.com.ico",
     "slug": "t-ro",
-    "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "97.13%",
-    "uptimeYear": "97.36%",
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "89.64%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "97.33%",
     "time": 1252,
-    "timeDay": 5535,
-    "timeWeek": 1952,
-    "timeMonth": 1406,
-    "timeYear": 1349,
+    "timeDay": 4008,
+    "timeWeek": 1853,
+    "timeMonth": 1396,
+    "timeYear": 1348,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-28": 19,
@@ -114,7 +114,7 @@
       "2026-08-17": 30,
       "2026-08-18": 77,
       "2026-08-29": 196,
-      "2026-08-30": 1
+      "2026-08-30": 149
     }
   },
   {
