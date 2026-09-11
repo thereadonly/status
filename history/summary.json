@@ -144,10 +144,10 @@
     "slug": "py-ifsc-cd-brg",
     "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.04%",
     "time": 1539,
     "timeDay": 1108,
     "timeWeek": 1102,
@@ -186,7 +186,7 @@
       "2026-08-17": 29,
       "2026-08-18": 39,
       "2026-08-29": 195,
-      "2026-09-11": 1
+      "2026-09-11": 9
     }
   },
   {
@@ -274,9 +274,9 @@
     "slug": "www",
     "status": "down",
     "uptime": "97.65%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "97.14%",
     "time": 1298,
     "timeDay": 5923,
@@ -322,7 +322,7 @@
       "2026-08-18": 39,
       "2026-08-24": 33,
       "2026-08-29": 194,
-      "2026-09-11": 0
+      "2026-09-11": 8
     }
   }
 ]
