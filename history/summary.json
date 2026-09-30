@@ -4,17 +4,17 @@
     "url": "https://dineshkumar.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dineshkumar.xyz.ico",
     "slug": "home",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "97.05%",
-    "time": 1138,
-    "timeDay": 671,
-    "timeWeek": 1024,
-    "timeMonth": 1036,
-    "timeYear": 1241,
+    "time": 1156,
+    "timeDay": 5517,
+    "timeWeek": 2331,
+    "timeMonth": 1369,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-28": 20,
@@ -57,7 +57,8 @@
       "2026-08-18": 39,
       "2026-08-24": 33,
       "2026-08-29": 197,
-      "2026-09-11": 165
+      "2026-09-11": 165,
+      "2026-09-30": 2
     }
   },
   {
@@ -65,17 +66,17 @@
     "url": "https://thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.com.ico",
     "slug": "t-ro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "97.28%",
-    "time": 1242,
-    "timeDay": 859,
-    "timeWeek": 1023,
-    "timeMonth": 1240,
-    "timeYear": 1332,
+    "time": 1247,
+    "timeDay": 2150,
+    "timeWeek": 1371,
+    "timeMonth": 1317,
+    "timeYear": 1338,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-28": 19,
@@ -116,7 +117,8 @@
       "2026-08-18": 77,
       "2026-08-29": 196,
       "2026-08-30": 149,
-      "2026-09-11": 285
+      "2026-09-11": 285,
+      "2026-09-30": 2
     }
   },
   {
@@ -132,8 +134,8 @@
     "uptimeYear": "100.00%",
     "time": 331,
     "timeDay": 403,
-    "timeWeek": 387,
-    "timeMonth": 377,
+    "timeWeek": 380,
+    "timeMonth": 382,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2026-08-19": 25
@@ -144,17 +146,17 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.48%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "98.96%",
-    "time": 1564,
-    "timeDay": 1129,
-    "timeWeek": 1428,
-    "timeMonth": 1512,
-    "timeYear": 1575,
+    "time": 1562,
+    "timeDay": 736,
+    "timeWeek": 1276,
+    "timeMonth": 1497,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2025-12-23": 25,
       "2025-12-31": 20,
@@ -188,7 +190,8 @@
       "2026-08-17": 29,
       "2026-08-18": 39,
       "2026-08-29": 195,
-      "2026-09-11": 472
+      "2026-09-11": 472,
+      "2026-09-30": 1
     }
   },
   {
@@ -204,7 +207,7 @@
     "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 204,
-    "timeWeek": 423,
+    "timeWeek": 421,
     "timeMonth": 402,
     "timeYear": 403,
     "dailyMinutesDown": {
@@ -224,8 +227,8 @@
     "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 16,
-    "timeWeek": 68,
-    "timeMonth": 48,
+    "timeWeek": 38,
+    "timeMonth": 47,
     "timeYear": 22,
     "dailyMinutesDown": {
       "2026-08-19": 24
@@ -244,8 +247,8 @@
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 395,
-    "timeWeek": 436,
-    "timeMonth": 411,
+    "timeWeek": 420,
+    "timeMonth": 413,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-08-19": 24
@@ -264,9 +267,9 @@
     "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 42,
-    "timeWeek": 141,
-    "timeMonth": 119,
-    "timeYear": 70,
+    "timeWeek": 146,
+    "timeMonth": 118,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -274,17 +277,17 @@
     "url": "www.thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.55%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "97.06%",
     "time": 1277,
-    "timeDay": 662,
-    "timeWeek": 836,
-    "timeMonth": 1158,
-    "timeYear": 1204,
+    "timeDay": 706,
+    "timeWeek": 820,
+    "timeMonth": 1173,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-31": 19,
@@ -324,7 +327,8 @@
       "2026-08-18": 39,
       "2026-08-24": 33,
       "2026-08-29": 194,
-      "2026-09-11": 440
+      "2026-09-11": 440,
+      "2026-09-30": 0
     }
   }
 ]
