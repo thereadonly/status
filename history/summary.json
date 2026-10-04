@@ -4,17 +4,17 @@
     "url": "https://dineshkumar.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dineshkumar.xyz.ico",
     "slug": "home",
-    "status": "up",
-    "uptime": "97.97%",
-    "uptimeDay": "88.88%",
-    "uptimeWeek": "91.11%",
+    "status": "down",
+    "uptime": "97.98%",
+    "uptimeDay": "88.82%",
+    "uptimeWeek": "91.10%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "96.88%",
     "time": 1156,
-    "timeDay": 811,
-    "timeWeek": 1704,
-    "timeMonth": 1293,
-    "timeYear": 1220,
+    "timeDay": 805,
+    "timeWeek": 1753,
+    "timeMonth": 1315,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-28": 20,
@@ -59,7 +59,8 @@
       "2026-08-29": 197,
       "2026-09-11": 165,
       "2026-09-30": 736,
-      "2026-10-03": 160
+      "2026-10-03": 160,
+      "2026-10-04": 1
     }
   },
   {
@@ -67,16 +68,16 @@
     "url": "https://thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.com.ico",
     "slug": "t-ro",
-    "status": "up",
-    "uptime": "98.09%",
-    "uptimeDay": "88.90%",
-    "uptimeWeek": "91.12%",
+    "status": "down",
+    "uptime": "98.10%",
+    "uptimeDay": "88.85%",
+    "uptimeWeek": "91.11%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "97.11%",
-    "time": 1248,
-    "timeDay": 896,
-    "timeWeek": 1164,
-    "timeMonth": 982,
+    "time": 1249,
+    "timeDay": 916,
+    "timeWeek": 1143,
+    "timeMonth": 991,
     "timeYear": 1315,
     "dailyMinutesDown": {
       "2025-12-23": 121,
@@ -120,7 +121,8 @@
       "2026-08-30": 149,
       "2026-09-11": 285,
       "2026-09-30": 735,
-      "2026-10-03": 160
+      "2026-10-03": 160,
+      "2026-10-04": 1
     }
   },
   {
@@ -135,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 407,
-    "timeWeek": 324,
-    "timeMonth": 375,
+    "timeDay": 0,
+    "timeWeek": 317,
+    "timeMonth": 377,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2026-08-19": 25
@@ -148,17 +150,17 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "88.91%",
+    "uptimeDay": "88.87%",
     "uptimeWeek": "91.13%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "98.79%",
     "time": 1563,
-    "timeDay": 1178,
-    "timeWeek": 1177,
-    "timeMonth": 1352,
-    "timeYear": 1575,
+    "timeDay": 1033,
+    "timeWeek": 1102,
+    "timeMonth": 1339,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2025-12-23": 25,
       "2025-12-31": 20,
@@ -194,7 +196,8 @@
       "2026-08-29": 195,
       "2026-09-11": 472,
       "2026-09-30": 734,
-      "2026-10-03": 160
+      "2026-10-03": 160,
+      "2026-10-04": 1
     }
   },
   {
@@ -209,10 +212,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 383,
-    "timeWeek": 375,
-    "timeMonth": 395,
-    "timeYear": 402,
+    "timeDay": 0,
+    "timeWeek": 349,
+    "timeMonth": 400,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2026-08-19": 25
     }
@@ -229,9 +232,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 17,
-    "timeDay": 22,
+    "timeDay": 0,
     "timeWeek": 25,
-    "timeMonth": 43,
+    "timeMonth": 44,
     "timeYear": 22,
     "dailyMinutesDown": {
       "2026-08-19": 24
@@ -249,9 +252,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 271,
-    "timeWeek": 379,
-    "timeMonth": 401,
+    "timeDay": 0,
+    "timeWeek": 376,
+    "timeMonth": 403,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2026-08-19": 24
@@ -269,10 +272,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 63,
-    "timeDay": 35,
-    "timeWeek": 71,
-    "timeMonth": 109,
-    "timeYear": 70,
+    "timeDay": 0,
+    "timeWeek": 63,
+    "timeMonth": 111,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -280,17 +283,17 @@
     "url": "www.thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "97.58%",
-    "uptimeDay": "88.92%",
-    "uptimeWeek": "91.14%",
-    "uptimeMonth": "96.96%",
+    "uptimeDay": "88.89%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "96.89%",
-    "time": 1274,
-    "timeDay": 880,
-    "timeWeek": 780,
-    "timeMonth": 1118,
-    "timeYear": 1200,
+    "time": 1275,
+    "timeDay": 925,
+    "timeWeek": 758,
+    "timeMonth": 1131,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-31": 19,
@@ -332,7 +335,8 @@
       "2026-08-29": 194,
       "2026-09-11": 440,
       "2026-09-30": 734,
-      "2026-10-03": 160
+      "2026-10-03": 160,
+      "2026-10-04": 0
     }
   }
 ]
