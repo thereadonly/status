@@ -4,16 +4,16 @@
     "url": "https://dineshkumar.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dineshkumar.xyz.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "96.73%",
-    "time": 1145,
-    "timeDay": 2514,
-    "timeWeek": 1374,
-    "timeMonth": 1032,
+    "status": "up",
+    "uptime": "97.99%",
+    "uptimeDay": "67.57%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "96.64%",
+    "time": 1146,
+    "timeDay": 2050,
+    "timeWeek": 1346,
+    "timeMonth": 1035,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2025-12-23": 121,
@@ -62,7 +62,7 @@
       "2026-10-03": 160,
       "2026-10-04": 691,
       "2026-10-30": 124,
-      "2026-11-11": 1
+      "2026-11-11": 467
     }
   },
   {
@@ -70,16 +70,16 @@
     "url": "https://thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/thereadonly.com.ico",
     "slug": "t-ro",
-    "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "96.95%",
+    "status": "up",
+    "uptime": "98.08%",
+    "uptimeDay": "67.59%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "96.87%",
     "time": 1244,
-    "timeDay": 2504,
-    "timeWeek": 1275,
-    "timeMonth": 1040,
+    "timeDay": 2004,
+    "timeWeek": 1245,
+    "timeMonth": 1039,
     "timeYear": 1199,
     "dailyMinutesDown": {
       "2025-12-23": 121,
@@ -126,7 +126,7 @@
       "2026-10-03": 160,
       "2026-10-04": 691,
       "2026-10-30": 124,
-      "2026-11-11": 1
+      "2026-11-11": 467
     }
   },
   {
@@ -154,17 +154,17 @@
     "url": "https://sdk.codeberg.page/getBankDetailsFromIFSC",
     "icon": "https://icons.duckduckgo.com/ip3/sdk.codeberg.page.ico",
     "slug": "py-ifsc-cd-brg",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "98.63%",
-    "time": 1508,
-    "timeDay": 2936,
-    "timeWeek": 1523,
-    "timeMonth": 1288,
-    "timeYear": 1236,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "67.62%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.54%",
+    "time": 1503,
+    "timeDay": 2433,
+    "timeWeek": 1512,
+    "timeMonth": 1292,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-12-23": 25,
       "2025-12-31": 20,
@@ -203,7 +203,7 @@
       "2026-10-03": 160,
       "2026-10-04": 691,
       "2026-10-30": 124,
-      "2026-11-11": 1
+      "2026-11-11": 466
     }
   },
   {
@@ -289,17 +289,17 @@
     "url": "www.thereadonly.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www",
-    "status": "down",
-    "uptime": "97.65%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "96.73%",
-    "time": 1219,
-    "timeDay": 2472,
-    "timeWeek": 1223,
-    "timeMonth": 927,
-    "timeYear": 1073,
+    "status": "up",
+    "uptime": "97.59%",
+    "uptimeDay": "67.64%",
+    "uptimeWeek": "95.38%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "96.65%",
+    "time": 1218,
+    "timeDay": 1977,
+    "timeWeek": 1197,
+    "timeMonth": 929,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-31": 19,
@@ -344,7 +344,7 @@
       "2026-10-03": 160,
       "2026-10-04": 690,
       "2026-10-30": 124,
-      "2026-11-11": 1
+      "2026-11-11": 466
     }
   }
 ]
