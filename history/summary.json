@@ -4,17 +4,17 @@
     "url": "https://dineshkumar.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dineshkumar.xyz.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "98.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "96.64%",
-    "time": 1149,
-    "timeDay": 633,
-    "timeWeek": 961,
-    "timeMonth": 1021,
-    "timeYear": 1126,
+    "time": 1166,
+    "timeDay": 5519,
+    "timeWeek": 2141,
+    "timeMonth": 1309,
+    "timeYear": 1152,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-28": 20,
@@ -62,7 +62,8 @@
       "2026-10-03": 160,
       "2026-10-04": 691,
       "2026-10-30": 124,
-      "2026-11-11": 467
+      "2026-11-11": 467,
+      "2026-11-21": 5
     }
   },
   {
@@ -79,8 +80,8 @@
     "time": 1246,
     "timeDay": 676,
     "timeWeek": 930,
-    "timeMonth": 995,
-    "timeYear": 1206,
+    "timeMonth": 994,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-28": 19,
@@ -143,7 +144,7 @@
     "time": 336,
     "timeDay": 282,
     "timeWeek": 369,
-    "timeMonth": 360,
+    "timeMonth": 364,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2026-08-19": 25
@@ -163,8 +164,8 @@
     "time": 1480,
     "timeDay": 1062,
     "timeWeek": 1381,
-    "timeMonth": 1289,
-    "timeYear": 1233,
+    "timeMonth": 1295,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2025-12-23": 25,
       "2025-12-31": 20,
@@ -220,8 +221,8 @@
     "time": 406,
     "timeDay": 253,
     "timeWeek": 418,
-    "timeMonth": 430,
-    "timeYear": 407,
+    "timeMonth": 429,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2026-08-19": 25
     }
@@ -240,7 +241,7 @@
     "time": 22,
     "timeDay": 25,
     "timeWeek": 75,
-    "timeMonth": 61,
+    "timeMonth": 62,
     "timeYear": 29,
     "dailyMinutesDown": {
       "2026-08-19": 24
@@ -260,8 +261,8 @@
     "time": 368,
     "timeDay": 336,
     "timeWeek": 461,
-    "timeMonth": 411,
-    "timeYear": 379,
+    "timeMonth": 413,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2026-08-19": 24
     }
@@ -280,7 +281,7 @@
     "time": 70,
     "timeDay": 62,
     "timeWeek": 147,
-    "timeMonth": 139,
+    "timeMonth": 143,
     "timeYear": 81,
     "dailyMinutesDown": {}
   },
@@ -290,16 +291,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "97.63%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "96.65%",
+    "uptime": "97.53%",
+    "uptimeDay": "44.64%",
+    "uptimeWeek": "92.09%",
+    "uptimeMonth": "96.83%",
+    "uptimeYear": "96.49%",
     "time": 1184,
     "timeDay": 684,
     "timeWeek": 909,
-    "timeMonth": 933,
-    "timeYear": 1077,
+    "timeMonth": 939,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2025-12-23": 121,
       "2025-12-31": 19,
@@ -345,7 +346,8 @@
       "2026-10-04": 690,
       "2026-10-30": 124,
       "2026-11-11": 466,
-      "2026-11-20": 1
+      "2026-11-21": 90,
+      "2026-11-20": 707
     }
   }
 ]
