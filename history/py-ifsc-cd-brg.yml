@@ -1,7 +1,7 @@
 url: https://sdk.codeberg.page/getBankDetailsFromIFSC
-status: down
-code: 404
-responseTime: 339
-lastUpdated: 2026-11-27T11:59:50.533Z
+status: up
+code: 200
+responseTime: 1181
+lastUpdated: 2026-11-27T20:50:49.852Z
 startTime: 2025-03-15T16:44:22.875Z
 generator: Upptime <https://github.com/upptime/upptime>
